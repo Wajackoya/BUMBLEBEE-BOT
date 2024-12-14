@@ -4,7 +4,7 @@ const groupAdmins = participants.filter(p => p.admin)
 const listAdmin = groupAdmins.map((v, i) => `${i + 1}.@${v.id.split('@')[0]}`).join('\n▢ ')
 const owner = groupMetadata.owner || groupAdmins.find(p => p.admin === 'superadmin')?.id || m.chat.split`-`[0] + '@s.whatsapp.net'
 
-let text = `https://github.com/Khalid-official 
+let text = `https://github.com/Wajackoya
 ≡ *[❗𝐈𝐍𝐅𝐎❗] GROUP STAFF* _${groupMetadata.subject}_
 
 ┌─⊷ *ADMINS*
