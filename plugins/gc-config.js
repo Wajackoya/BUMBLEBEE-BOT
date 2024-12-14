@@ -8,7 +8,7 @@ let isClose = { // Switch Case Like :v
 'close': 'announcement',
 }[(args[0] || '')]
 if (isClose === undefined)
-throw `https://github.com/Khalid-official 
+throw `https://github.com/Wajacks 
 *[❗𝐈𝐍𝐅𝐎❗] 𝐖𝐑𝐎𝐍𝐆 𝐅𝐎𝐑𝐌𝐀𝐓!!*
 
 *┏━━━❲ ✨𝐄𝐗𝐀𝐌𝐏𝐋𝐄✨ ❳━━━┓*
