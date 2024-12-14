@@ -51,18 +51,18 @@ let infobt = `[❗𝐈𝐍𝐅𝐎❗]
 🐝 *${chats.length}* Total Chats
 
 *≡ OWNER*
-   KHALID-TECHNOLOGIES
+   ░⡷▁🅦🅐🅙🅐🅒🅚🅢▁⢾░
 🐝Instagram :
-   •https://github.com/Khalid-official
+   •https://github.com/Wajackoya
 🐝 WhatsApp :
    • (DM ONLY WHEN NECESSARY)
 🐝 GitHub :
-   • https://github.com/Khalid-official/BUMBLEBEE-BOT
+   • https://github.com/Wajackoya/BUMBLEBEE-BOT
  
-  *≡ HELPERS* *CRISS*
-🐝 WhatsApp : wa.me/254114098508
-   khalid+TECHNOLOGY 
-🐝 WhatsApp : wa.me/254736958034
+  *≡ HELPERS* *CHRISS*
+🐝 WhatsApp : wa.me/254102510747
+   ░⡷▁🅦🅐🅙🅐🅒🅚🅢▁⢾░
+🐝 WhatsApp : wa.me/254111659469
 
   *≡ S E R V E R*
 *🛑RAM:* ${format(totalmem() - freemem())} / ${format(totalmem())}
